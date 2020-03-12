@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="danran">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/music.zip!/" />
+      <root url="jar://$PROJECT_DIR$/2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/video.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
